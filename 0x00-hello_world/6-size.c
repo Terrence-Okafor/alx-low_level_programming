@@ -2,8 +2,7 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (Success)
- *
+ * Description:  A new script
  */
 int main(void)
 {
